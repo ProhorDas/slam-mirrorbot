@@ -1,14 +1,13 @@
-```diff 
-- [ DEAD REPO AND NO MORE UPDATE ]
+
 ```
 [![SlamDevs](https://telegra.ph/file/143032e96542e7534f073.jpg)](https://t.me/SlamDevs)
 
 # Slam Mirror Bot
-![GitHub Repo stars](https://img.shields.io/github/stars/breakdowns/slam-mirrorbot?color=blue&style=flat)
-![GitHub forks](https://img.shields.io/github/forks/breakdowns/slam-mirrorbot?color=green&style=flat)
-![GitHub contributors](https://img.shields.io/github/contributors/breakdowns/slam-mirrorbot?style=flat)
-![GitHub watchers](https://img.shields.io/github/watchers/breakdowns/slam-mirrorbot)
-![Docker Pulls](https://img.shields.io/docker/pulls/breakdowns/mega-sdk-python?label=Docker%20Pull)
+![GitHub Repo stars](https://img.shields.io/github/stars/ProhorDas/slam-mirrorbot?color=blue&style=flat)
+![GitHub forks](https://img.shields.io/github/forks/ProhorDas/slam-mirrorbot?color=green&style=flat)
+![GitHub contributors](https://img.shields.io/github/contributors/ProhorDas/slam-mirrorbot?style=flat)
+![GitHub watchers](https://img.shields.io/github/watchers/ProhorDas/slam-mirrorbot)
+![Docker Pulls](https://img.shields.io/docker/pulls/ProhorDas/mega-sdk-python?label=Docker%20Pull)
 
 **Slam Mirror Bot** is a _multipurpose_ Telegram Bot written in Python for mirroring files on the Internet to our beloved Google Drive. Based on [python-aria-mirror-bot](https://github.com/lzzy12/python-aria-mirror-bot)
 
@@ -82,7 +81,7 @@ Deploying is pretty much straight forward and is divided into several steps as f
 
 - Clone this repo:
 ```
-git clone https://github.com/breakdowns/slam-mirrorbot mirrorbot/
+git clone https://github.com/ProhorDas/slam-mirrorbot mirrorbot/
 cd mirrorbot
 ```
 
@@ -270,7 +269,7 @@ sudo docker image prune -a
 
 ## Deploying on Heroku
 - Deploying on Heroku with Github Workflow
-<p><a href="https://github.com/breakdowns/slam-mirrorbot/wiki/Deploying-slam-mirrorbot-on-Heroku-with-Github-Workflows"> <img src="https://img.shields.io/badge/Deploy%20Guide-blueviolet?style=for-the-badge&logo=heroku" width="170""/></a></p>
+<p><a href="https://github.com/ProhorDas/slam-mirrorbot/wiki/Deploying-slam-mirrorbot-on-Heroku-with-Github-Workflows"> <img src="https://img.shields.io/badge/Deploy%20Guide-blueviolet?style=for-the-badge&logo=heroku" width="170""/></a></p>
 
 - Deploying on Heroku with heroku-cli and Goorm IDE
 <p><a href="https://telegra.ph/How-to-Deploy-a-Mirror-Bot-to-Heroku-with-CLI-05-06"> <img src="https://img.shields.io/badge/Deploy%20Guide-grey?style=for-the-badge&logo=telegraph" width="170""/></a></p>
